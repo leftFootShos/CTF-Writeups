@@ -1,4 +1,4 @@
-##Description:
+## Description:
 
 
 [Problem source](https://exploit-exercises.com/nebula/level15/)
@@ -8,7 +8,7 @@ We are given an executable with suid bit set. As indicated by the problem
 description, the program is most likely trying to load a shared library during
 the runtime from an unsecured location.
 
-##Solution
+## Solution
 
 
 Stracing the executable shows that the program is trying to load dynamic
@@ -44,7 +44,7 @@ dynanmic linker.
 		system("/bin/getflag");
 	}
 
-##Lessons learned
+## Lessons learned
 
 
 Compiling the shared library had some problems. Will investigate further after
