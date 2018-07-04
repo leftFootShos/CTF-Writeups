@@ -1,4 +1,4 @@
-**LETTER**
+**PROBLEM - LETTER**
 
 In this challenge we are presented with a PDF file, which contains a login and a
 password, but both of them are blacked out.
