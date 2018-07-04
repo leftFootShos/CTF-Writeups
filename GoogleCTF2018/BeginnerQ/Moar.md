@@ -19,3 +19,7 @@ We can use the _!bashcommand_to execute commands
 If we use _!ls /home/moar_ we can see the file
 _disable_dmz.sh_ which contains the flag for the challenge.
 
+
+**Token**
+
+	CTF{SOmething-CATastr0phic}

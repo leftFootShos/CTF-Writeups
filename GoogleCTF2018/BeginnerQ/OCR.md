@@ -18,3 +18,7 @@ segment of text: __VMY{gibberish}__, this snippet looks suspiciously like the
 token that we are looking for, so we can just write this snippet out and apply
 the shift. We get __CTF{caesarcipherisasubstitutioncipher}__, which is the key
 of this challenge.
+
+**Token**
+
+	CTF{caesarcipherisasubstitutioncipher}
